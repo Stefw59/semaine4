@@ -1,0 +1,1 @@
+Le lien pour accéder aux badges Ruby est https://www.codecademy.com/fr/users/Stefw59/achievements
